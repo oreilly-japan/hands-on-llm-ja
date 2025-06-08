@@ -21,6 +21,14 @@
 | 第11章: 分類モデルのファインチューニング  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HandsOnLLM/Hands-On-Large-Language-Models/blob/main/chapter11/Chapter%2011%20-%20Fine-Tuning%20BERT.ipynb)  |
 | 第12章: 生成モデルのファインチューニング  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/chapter12/Chapter%2012%20-%20Fine-tuning%20Generation%20Models.ipynb)  |
 
+## 日本語版ボーナスコンテンツ
+
+| 説明  | ノートブック  |
+|---|---|
+| Gemini Developer APIを用いたReAct  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/bonus/react_with_gemini_api.ipynb)   |
+| Gemini Developer APIを用いたテキスト分類  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/bonus/text_classification_with_gemini_api.ipynb)   |
+| Gemini Developer APIを用いたトピック生成  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/bonus/topic_generation_with_gemini_api.ipynb)   |
+
 ## ボーナスコンテンツ
 
 著者のWebサイトでは次のコンテンツも紹介しています。
