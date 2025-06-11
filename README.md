@@ -1,4 +1,4 @@
-﻿# 直感LLM
+# 直感LLM
 
 <a href="https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961"><img src="images/cover.jpg" width="50%" height="50%"></a>
 
@@ -38,3 +38,13 @@
 ![](images/mamba.png)  |  ![](images/quant.png) |  ![](images/diffusion.png)
 **[A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)**  | **[A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)**  |  **[The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)**
 ![](images/moe.png)  |  ![](images/reasoning.png) |  ![](images/deepseek.png)
+
+----
+
+## 正誤表
+
+本書の正誤情報は以下のページで公開しています。
+
+<https://github.com/oreilly-japan/hands-on-llm-ja/wiki/errata>
+
+本ページに掲載されていない誤植など間違いを見つけた方は、[japan@oreilly.co.jp](<mailto:japan@oreilly.co.jp>)までお知らせください。
