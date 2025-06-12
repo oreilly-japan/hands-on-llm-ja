@@ -1,4 +1,4 @@
-# 直感LLM
+﻿# 直感LLM
 
 <a href="https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961"><img src="images/cover.jpg" width="50%" height="50%"></a>
 
@@ -23,11 +23,12 @@
 
 ## 日本語版ボーナスコンテンツ
 
-| 説明  | ノートブック  |
-|---|---|
-| Gemini Developer APIを用いたReAct  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/bonus/react_with_gemini_api.ipynb)   |
-| Gemini Developer APIを用いたテキスト分類  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/bonus/text_classification_with_gemini_api.ipynb)   |
-| Gemini Developer APIを用いたトピック生成  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/bonus/topic_generation_with_gemini_api.ipynb)   |
+| 関連する章  | 説明  | ノートブック  |
+|---|---|---|
+| 4章 | Gemini Developer APIを用いたテキスト分類  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/bonus/text_classification_with_gemini_api.ipynb)   |
+| 5章 | Gemini Developer APIを用いたトピック生成  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/bonus/topic_generation_with_gemini_api.ipynb)   |
+| 5章 | 日本語論文タイトルのクラスタリングと時系列での可視化  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/bonus/anlp_paper_clustering.ipynb)   |
+| 7章 | Gemini Developer APIを用いたReAct  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-llm-ja/blob/main/bonus/react_with_gemini_api.ipynb)   |
 
 ## ボーナスコンテンツ
 
